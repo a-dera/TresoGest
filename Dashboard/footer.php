@@ -12,29 +12,11 @@
                                         </li>
 
                                         <li class="nav-item">
-                                            <a href="javascript:void(0);" title="TresoGest" class="nav-link">
-                                                Aïda HIE, Hamidou OUEDRAOGO, Amédée DERA 
-                                            </a>
+                                            <a href="javascript:void(0);" title="@a-dera" class="nav-link">Amédée DERA </a>
                                         </li>
                                     </ul>
                                 </div>
-                                <!-- <div class="app-footer-right">
-                                    <ul class="nav">
-                                        <li class="nav-item">
-                                            <a href="javascript:void(0);" title="Ecrivez-moi un mail" class="nav-link">
-                                               @gmail.com
-                                            </a>
-                                        </li> 
-                                        <li class="nav-item">
-                                            <a href="javascript:void(0);" title="Appelez-moi" class="nav-link">
-                                                <div class="badge badge-success mr-2 ml-2">
-                                                    56 86 36 75
-                                                </div>
-
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div> -->
+                               
                             </div>
                         </div>
                     </div>
